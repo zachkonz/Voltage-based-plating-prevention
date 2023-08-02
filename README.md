@@ -1,1 +1,1 @@
-# Voltage-based-strategies-for-Li-plating-prevention
+# Voltage-based-plating-prevention
